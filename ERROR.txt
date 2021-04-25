@@ -1,5 +1,8 @@
 i'm getting error while running the program
-
+             
+             https://github.com/GBNP5000/POST_TO_FB_FROM_PYTHON/blob/main/MY-FB-APP.py
+             
+             
 {"error":{"message":"(#200) If posting to a group, requires app being installed in the group, and \\\n    
 
 either publish_to_groups permission with user token, or both pages_read_engagement \\\n 
