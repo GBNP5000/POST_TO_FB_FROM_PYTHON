@@ -1,3 +1,5 @@
+i'm getting error while running the program
+
 {"error":{"message":"(#200) If posting to a group, requires app being installed in the group, and \\\n    
 
 either publish_to_groups permission with user token, or both pages_read_engagement \\\n 
